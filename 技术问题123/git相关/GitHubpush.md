@@ -1,5 +1,10 @@
-div，section和article的区别
-语义从左到右逐渐增强
-div无任何语义，仅作为样式化或者脚本化的标签
-section适用于一段主题性的内容
-article适用于完整的独立存在的一段内容
+
+git在mac上的指令：
+cd
+pwd
+mkdir
+touch
+cp
+mv
+rm
+clear
