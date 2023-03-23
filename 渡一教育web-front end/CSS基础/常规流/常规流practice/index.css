@@ -1,0 +1,44 @@
+body{
+    background-color: #4d4a40;  
+    padding:20px 0; 
+}
+.container{
+    width:90%;
+    background-color: aliceblue;
+    margin:0 auto;
+    padding:30px 0;
+}
+.container header{
+    border:#14414e 5px solid;
+    background-color: #267890;
+    margin-left:-34px;   
+    margin-right:-34px;
+    margin-bottom:30px;
+}
+.container header h1{
+    font-size:42px;
+    font-family:Arial;
+    color:#fff;
+    text-align:center;
+}
+.container header div{
+    margin:30px 0;
+    text-align:center;
+    color:#dbdbdb;
+}
+.container header div a:hover{color:#fff;}
+
+.sectionStyle{
+    width:89%;
+    line-height:2;
+    margin:0 auto;
+
+}
+.sectionStyle h2{
+    font-size: 32px;
+    border-top: dotted;
+    border-bottom: dotted;
+}
+.sectionStyle h2 p{
+    margin:1em auto;
+}

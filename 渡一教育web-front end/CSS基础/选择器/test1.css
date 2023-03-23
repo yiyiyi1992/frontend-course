@@ -1,0 +1,33 @@
+/* a:link{
+    color:chocolate;
+}
+a:visited{
+    color:crimson;
+}
+a:hover{color:black;} */
+/* a:active{color:beige;} */
+/* span::before{
+    content:"《";
+    color:red;
+
+}
+span::after{
+    content:"》";
+    color:rgb(93, 0, 255);
+
+} */
+/* p{ */
+    /* text-indent: 2em;
+    line-height:2;
+} */
+div.red{color:red;}
+
+.red li{
+    color:rgb(60, 0, 255);
+}
+/* .red .bcd{
+    color:rgb(13, 7, 20);
+} */
+.red *{color:blue;}
+/* .shit+li{color:rgb(163, 127, 255);} */
+.shit~li{color:brown;}
